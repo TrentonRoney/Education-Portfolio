@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, my name is Trenton Roney, below is my important experience throughout my career.
+Hello, my name is Trenton Roney, although I may not know everything or have experience with everything, I am extremely coachable and a fast learner. Below is my important experience throughout my career.
 
 ## Education
 
