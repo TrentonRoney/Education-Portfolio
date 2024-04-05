@@ -2,51 +2,30 @@
 
 ## About Me
 
-Brief introduction about yourself.
+Hello, my name is Trenton Roney, below is my important experience throughout my career.
 
 ## Education
 
 ### Bachelors of Computer Science
-- **University**: [University Name]
-- **Duration**: [Start Date] - [End Date]
-- **Description**: Summary of your coursework and achievements.
+- **University**: University of Missouri
+- **Duration**: FALL2022 - Present
+- **Description**: Coursework information included on the next file.
 
 ### Associates in Business Finance
-- **Institution**: [Institution Name]
-- **Duration**: [Start Date] - [End Date]
-- **Description**: Summary of your coursework and achievements.
+- **Institution**: MACC (Moberly Area Community College)
+- **Duration**: FALL2021 - SPRING2022
+- **Description**: Achieved an Associates in Business Finance
 
 ## Experience
 
-### [Company Name]
-- **Position**: [Your Position]
-- **Duration**: [Start Date] - [End Date]
-- **Description**: Summary of your responsibilities and achievements.
+### Veterans United Home Loans
+- **Position**: Intern
+- **Duration**: May 2021 - Present
+- **Description**: I have been involved in two different departments while here at VU. My first is HBC. While there, I did countless things that included, but are not limited to; verifying utilities, REA contact cards, call listening, and multiple pilot groups for finding new ways that interns could help other full time HBC's.
 
-### [Company Name]
-- **Position**: [Your Position]
-- **Duration**: [Start Date] - [End Date]
-- **Description**: Summary of your responsibilities and achievements.
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
-## Projects
-
-### Project 1
-- **Description**: Summary of the project.
-- **Technologies**: List of technologies used.
-- **Link**: [Link to the project]
-
-### Project 2
-- **Description**: Summary of the project.
-- **Technologies**: List of technologies used.
-- **Link**: [Link to the project]
 
 ## Contact Information
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: tjr_1st@hotmail.com
+- Phone # - 573-823-6196
+- LinkedIn: www.linkedin.com/in/trenton-roney
